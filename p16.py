@@ -7,4 +7,4 @@ for i in range(len(numbers) - 1):
 
 numbers[-1] = first
 
-print("Rotated array:", numbers)
+print("Rotated array:", numbers) 
